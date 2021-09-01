@@ -1,0 +1,11 @@
+package Second_Exception;
+
+class ThrowsExecp{
+    
+    public static void main(String args[]){
+          
+        String str = null;
+        System.out.println(str.length());
+          
+    }
+}
